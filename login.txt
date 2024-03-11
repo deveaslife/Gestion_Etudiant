@@ -1,0 +1,4 @@
+admin passer1
+etudiant passer2
+bass1 passer2
+fatou1 passer2
